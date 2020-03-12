@@ -1,0 +1,89 @@
+{
+    "profiles":[
+       {
+        "basics":{
+            "name":"Rajesh N",
+            "email":"rajesh@gmail.com",
+            "mobile":"+91 9878675746"
+        },
+        "education":[
+            {
+                "degree":"S.S.C",
+                "percentage":"90",
+                "institute":"St.johns"
+            },
+            {
+                "degree":"Intermediate - (M.P.C)",
+                "percentage":"92",
+                "institute":"Sree chaitanya junior college"
+            },
+            {
+                "degree":"B-Tech - (C.S.E)",
+                "percentage":"90",
+                "institute":"VVIT"
+            }
+        ],
+        "skills":[
+            {
+                "type":"Programming languages",
+                "values":["C","C++","Java","Python","Ruby"]
+            },
+            {
+                "type":"Web technologies",
+                "values":["HTML","CSS","JavaScript"]
+            },
+            {
+                "type":"Frameworks & Libraries",
+                "values":["ReactJs"]
+            },
+            {
+                "type":"Operating System's",
+                "values":["windows","linux","mac"]
+            }
+        ]
+       },
+       {
+        "basics":{
+            "name":"Kalyan P",
+            "email":"kalyan@gmail.com",
+            "mobile":"+91 9878675746"
+        },
+        "education":[
+            {
+                "degree":"S.S.C",
+                "percentage":"93",
+                "institute":"Bhasyam"
+            },
+            {
+                "degree":"Intermediate - (M.P.C)",
+                "percentage":"93",
+                "institute":"Sree chaitanya junior college"
+            },
+            {
+                "degree":"B-Tech - (E.C.E)",
+                "percentage":"90",
+                "institute":"VVIT"
+            }
+        ],
+        "skills":[
+            {
+                "type":"Programming languages",
+                "values":["C","C++","Java","Python","Ruby"]
+            },
+            {
+                "type":"Web technologies",
+                "values":["HTML","CSS","JavaScript"]
+            },
+            {
+                "type":"Frameworks & Libraries",
+                "values":["ReactJs"]
+            },
+            {
+                "type":"Operating System's",
+                "values":["windows","linux","mac"]
+            }
+        ]
+
+       }
+    ]
+}
